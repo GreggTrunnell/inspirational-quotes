@@ -1,3 +1,4 @@
+//TODO wait to catch up on tutorial
 import { useEffect, useState } from 'react';
 import Quotes from './quotes';
 import InspirationalQuote from './quote';
